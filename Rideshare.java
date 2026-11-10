@@ -89,8 +89,8 @@ class Trip {
 }
 class  ridersystem {
     public  static void  main(String[] args){
-        Rider r1 = new Rider("bunny" , 123 , 4.9);
-        Rider r2 = new Rider("foxie" , 456 , 5.0);
+        Rider r1 = new Rider("wild" , 123 , 4.9);
+        Rider r2 = new Rider("hopes" , 456 , 5.0);
         Trip t1 = new Trip("syl" , "dhaka" , 9 , r1);
         Trip t2 = new Trip("syl" , "coxs" , 30 , r1);
         Trip t3 = new Trip("syl" , "rajshahi" , 4 , r2);
